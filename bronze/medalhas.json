@@ -1,0 +1,15 @@
+{
+    "nome_dataset": "medalhas",
+    "qtd_linhas": 771,
+    "colunas": [
+        "country",
+        "medal",
+        "total"
+    ],
+    "tipos": {
+        "country": "object",
+        "medal": "object",
+        "total": "int64"
+    },
+    "data_criacao": "2026-03-30 04:42:45.578945"
+}

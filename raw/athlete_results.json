@@ -1,0 +1,17 @@
+{
+  "nome_dataset": "athlete_results",
+  "fonte": "Base dos Dados",
+  "descricao": "Resultados dos atletas em eventos olímpicos",
+  "campos_principais": [
+    "edition",
+    "edition_id",
+    "country_noc",
+    "sport",
+    "event",
+    "athlete",
+    "athlete_id",
+    "medal"
+  ],
+  "data_coleta": "2026-03-28",
+  "observacoes": "Contém resultados e medalhas dos atletas"
+}

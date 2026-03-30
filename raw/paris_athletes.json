@@ -1,0 +1,16 @@
+{
+  "nome_dataset": "paris_athletes",
+  "fonte": "Kaggle - Paris 2024 Olympic Games",
+  "descricao": "Informações dos atletas participantes das Olimpíadas de Paris 2024",
+  "campos_principais": [
+    "code",
+    "name",
+    "gender",
+    "country",
+    "discipline",
+    "events",
+    "birth_date"
+  ],
+  "data_coleta": "2026-03-28",
+  "observacoes": "Dataset contém dados detalhados dos atletas"
+}

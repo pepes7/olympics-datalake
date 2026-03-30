@@ -1,0 +1,13 @@
+{
+    "nome_dataset": "modalidades",
+    "qtd_linhas": 134,
+    "colunas": [
+        "modalidade",
+        "total"
+    ],
+    "tipos": {
+        "modalidade": "object",
+        "total": "int64"
+    },
+    "data_criacao": "2026-03-30 04:43:36.199766"
+}

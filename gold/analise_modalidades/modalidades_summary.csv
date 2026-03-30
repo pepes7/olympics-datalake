@@ -1,0 +1,135 @@
+modalidade,total
+Athletics,4509
+Swimming,3278
+Rowing,3074
+Artistic Gymnastics,2276
+Football,2064
+['Athletics'],2018
+Ice Hockey,1874
+Fencing,1831
+Hockey,1781
+Wrestling,1356
+Sailing,1278
+Shooting,1237
+Handball,1187
+Water Polo,1180
+Basketball,1163
+Volleyball,1080
+Canoe Sprint,1033
+Boxing,996
+Cross Country Skiing,910
+Cycling Track,899
+['Swimming'],836
+Speed Skating,707
+Weightlifting,678
+Judo,649
+['Football'],553
+Biathlon,524
+Alpine Skiing,522
+Figure Skating,512
+['Rowing'],493
+Diving,460
+Bobsleigh,452
+Short Track Speed Skating,424
+['Hockey'],415
+Baseball,408
+['Handball'],386
+Archery,383
+Cycling Road,381
+['Judo'],378
+Equestrian Eventing,362
+Tennis,358
+Equestrian Jumping,348
+['Shooting'],342
+['Sailing'],330
+['Rugby Sevens'],317
+['Volleyball'],311
+['Wrestling'],291
+['Basketball'],287
+Equestrian Dressage,287
+['Water Polo'],286
+Ski Jumping,261
+['Fencing'],260
+Artistic Swimming,249
+['Boxing'],248
+Curling,245
+['Equestrian'],242
+['Canoe Sprint'],239
+Luge,228
+Softball,225
+['Cycling Track'],224
+Rugby,211
+Nordic Combined,201
+Table Tennis,198
+Modern Pentathlon,192
+Badminton,192
+['Artistic Gymnastics'],190
+Freestyle Skiing,178
+['Tennis'],176
+Taekwondo,176
+['Table Tennis'],175
+['Badminton'],175
+['Cycling Road'],174
+Snowboarding,156
+Rugby Sevens,152
+Rhythmic Gymnastics,150
+Art Competitions,147
+['Diving'],135
+['Taekwondo'],134
+Canoe Slalom,132
+['Archery'],128
+['Weightlifting'],122
+['Golf'],120
+['Triathlon'],111
+['Artistic Swimming'],106
+Tug-Of-War,98
+['Beach Volleyball'],96
+['Rhythmic Gymnastics'],94
+['Skateboarding'],88
+Alpinism,88
+Beach Volleyball,84
+['Canoe Slalom'],84
+Canoe Marathon,78
+['Modern Pentathlon'],72
+Polo,72
+['Cycling Mountain Bike'],68
+['Sport Climbing'],68
+['Cycling BMX Racing'],67
+['3x3 Basketball'],64
+Lacrosse,63
+Golf,52
+Triathlon,48
+['Surfing'],48
+Skeleton,42
+Cycling Mountain Bike,42
+['Marathon Swimming'],38
+Trampolining,36
+Cricket,34
+['Breaking'],33
+Karate,32
+['Trampoline Gymnastics'],32
+Cycling BMX Racing,24
+3x3 Basketball,24
+Marathon Swimming,24
+['Cycling BMX Freestyle'],24
+"['Marathon Swimming', 'Swimming']",17
+Equestrian Vaulting,12
+Military Ski Patrol,12
+Skateboarding,12
+"['Cycling Road', 'Cycling Track']",11
+Racquets,10
+Croquet,8
+Motorboating,7
+Surfing,6
+Cycling BMX Freestyle,6
+Sport Climbing,6
+Equestrian Driving,3
+Roque,3
+Jeu De Paume,3
+Basque pelota,2
+[Athletics],2
+"['Cycling Road', 'Cycling Mountain Bike']",2
+Aeronautics,1
+"['Cycling Road', 'Triathlon']",1
+"['3x3 Basketball', 'Basketball']",1
+[Equestrian],1

@@ -1,0 +1,13 @@
+{
+    "nome_dataset": "atletas_por_sexo",
+    "qtd_linhas": 2,
+    "colunas": [
+        "sexo",
+        "total"
+    ],
+    "tipos": {
+        "sexo": "object",
+        "total": "int64"
+    },
+    "data_criacao": "2026-03-30 04:44:09.923961"
+}

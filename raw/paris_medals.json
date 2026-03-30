@@ -1,0 +1,13 @@
+{
+  "nome_dataset": "paris_medals",
+  "fonte": "Kaggle - Paris 2024 Olympic Games",
+  "descricao": "Informações sobre modalidades e eventos esportivos",
+  "campos_principais": [
+    "event",
+    "sport",
+    "sport_code",
+    "sport_url"
+  ],
+  "data_coleta": "2026-03-28",
+  "observacoes": "Dados relacionados aos esportes e eventos"
+}

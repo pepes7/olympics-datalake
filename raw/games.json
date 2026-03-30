@@ -1,0 +1,16 @@
+{
+  "nome_dataset": "games",
+  "fonte": "Base dos Dados",
+  "descricao": "Informações sobre as edições dos Jogos Olímpicos",
+  "campos_principais": [
+    "edition",
+    "edition_id",
+    "year",
+    "city",
+    "country_noc",
+    "start_date",
+    "end_date"
+  ],
+  "data_coleta": "2026-03-28",
+  "observacoes": "Dados de edições dos jogos olímpicos"
+}

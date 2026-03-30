@@ -1,0 +1,399 @@
+country,Bronze,Gold,Silver
+ Afghanistan,2,0,0
+ Albania  Greece,1,0,1
+ Albania  Kosovo,0,1,0
+ Algeria,8,5,4
+ Argentina,117,99,124
+ Argentina  Australia,1,0,0
+ Argentina  Italy,1,0,0
+ Armenia,8,1,8
+ Armenia  Bulgaria,1,2,0
+ Armenia  Kazakhstan,1,0,0
+ Armenia  Russian Federation,1,0,0
+ Armenia  Soviet Union,0,3,1
+ Armenia  Soviet Union  Unified Team,0,2,1
+ Australasia,3,34,2
+ Australasia  Australia,3,1,4
+ Australasia  New Zealand,1,0,0
+ Australasia  United States,0,2,0
+ Australia,574,387,486
+ Australia  Belarus,1,0,0
+ Australia  Belgium,1,0,0
+ Australia  Bulgaria,4,0,0
+ Australia  Germany,2,0,1
+ Australia  Great Britain,3,1,1
+ Australia  Great Britain  New Zealand,1,0,0
+ Australia  Hungary,1,0,1
+ Australia  India,0,0,1
+ Australia  Italy,1,0,1
+ Australia  Kazakhstan,0,1,0
+ Australia  Malaysia  Netherlands,0,0,1
+ Australia  Netherlands,3,2,1
+ Australia  New Zealand,0,1,0
+ Australia  Russian Federation  Soviet Union  Unified Team,1,0,2
+ Australia  Soviet Union,0,0,1
+ Australia  Ukraine  Unified Team,1,0,0
+ Australia  United States,1,2,1
+ Austria,170,123,204
+ Austria  Canada,0,1,0
+ Austria  Germany,0,1,0
+ Austria  Hungary,1,1,2
+ Austria  International Federation Representative,1,0,0
+ Austria  Poland,0,0,1
+ Austria  Russian Federation  Unified Team,1,0,1
+ Austria  Soviet Union,2,0,0
+ Austria  Soviet Union  Unified Team,2,0,0
+ Austria  United States,1,0,2
+ Austria  Yugoslavia,0,3,3
+ Azerbaijan,24,7,14
+ Azerbaijan  Belarus,0,0,1
+ Azerbaijan  North Macedonia,1,0,0
+ Azerbaijan  Türkiye,1,0,0
+ Azerbaijan  Ukraine,4,1,2
+ Azerbaijan  Unified Team,0,1,1
+ Bahrain,0,2,2
+ Barbados,1,0,0
+ Belarus,56,24,46
+ Belarus  Kazakhstan,0,0,1
+ Belarus  Russian Federation,3,1,1
+ Belarus  Russian Federation  Soviet Union,0,1,0
+ Belarus  Soviet Union,7,8,4
+ Belarus  Soviet Union  Unified Team,4,8,4
+ Belarus  Ukraine,0,1,0
+ Belarus  Unified Team,10,13,5
+ Belgium,180,133,202
+ Belgium  Germany,0,1,0
+ Belgium  Hungary,1,1,2
+ Belgium  Netherlands,2,2,1
+ Belgium  Spain,1,0,0
+ Bermuda,1,1,0
+ Bohemia,7,0,0
+ Bohemia  Czechoslovakia,3,0,1
+ Bosnia and Herzegovina  Yugoslavia,0,2,1
+ Botswana,5,0,1
+ Brazil,215,144,203
+ Brazil  Croatia  Italy  United States  Yugoslavia,0,0,1
+ Brazil  Serbia,2,0,0
+ Bulgaria,143,60,145
+ Bulgaria  Croatia,2,1,1
+ Bulgaria  Republic of Moldova,1,0,0
+ Bulgaria  Russian Federation,0,0,1
+ Bulgaria  Switzerland,1,0,0
+ Bulgaria  United States,0,0,1
+ Burkina Faso,1,0,0
+ Burundi,0,1,1
+ Cameroon,2,21,1
+ Cameroon  France,0,0,1
+ Canada,572,577,511
+ Canada  Czechia,1,0,1
+ Canada  Denmark,1,0,1
+ Canada  France,1,0,0
+ Canada  Great Britain  Sweden,1,0,0
+ Canada  Italy,0,0,1
+ Canada  Jamaica,1,0,1
+ Canada  Nigeria,0,0,1
+ Canada  People's Republic of China,0,1,0
+ Canada  Soviet Union,1,2,1
+ Canada  Sweden,0,1,0
+ Canada  Switzerland,0,0,1
+ Canada  United States,3,5,1
+ Chile,25,3,9
+ Chinese Taipei,22,8,33
+ Chinese Taipei  People's Republic of China,1,1,2
+ Colombia,16,5,13
+ Colombia  Yugoslavia,0,0,1
+ Costa Rica,2,1,1
+ Croatia,35,57,50
+ Croatia  Egypt  Yugoslavia,1,1,0
+ Croatia  Italy,0,0,1
+ Croatia  Slovenia,1,0,1
+ Croatia  Slovenia  Yugoslavia,1,1,0
+ Croatia  Soviet Union  Unified Team,0,1,1
+ Croatia  Spain,0,0,1
+ Croatia  Yugoslavia,7,8,17
+ Cuba,128,181,136
+ Cuba  Italy,1,2,0
+ Cuba  Portugal,0,1,0
+ Cuba  Soviet Union,0,0,1
+ Cuba  Spain,0,0,1
+ Cuba  Türkiye,1,0,0
+ Cyprus,0,0,1
+ Czechia,74,42,33
+ Czechia  Czechoslovakia,25,22,25
+ Czechoslovakia,164,69,209
+ Czechoslovakia  Finland,0,0,1
+ Czechoslovakia  Hungary,1,0,0
+ Czechoslovakia  Slovakia,3,0,3
+ Czechoslovakia  United States,0,1,0
+ Czechoslovakia  Yugoslavia,0,0,1
+ Côte d'Ivoire,2,1,1
+ Democratic People's Republic of Korea,36,16,17
+ Denmark,189,173,263
+ Denmark  Norway,0,0,1
+ Denmark  Sweden,1,0,0
+ Djibouti,1,0,0
+ Dominican Republic,27,3,9
+ East Germany,250,345,290
+ East Germany  Germany,72,115,91
+ Ecuador,0,3,2
+ Egypt,18,8,10
+ Egypt  Hungary,0,2,1
+ Egypt  Yugoslavia,0,1,0
+ Eritrea,1,0,0
+ Estonia,25,16,10
+ Estonia  Russian Federation,0,2,0
+ Estonia  Soviet Union,5,3,4
+ Ethiopia,23,23,12
+ Fiji,13,26,0
+ Finland,490,223,277
+ Finland  South Africa,1,0,0
+ France,717,568,683
+ France  Germany,0,1,0
+ France  Great Britain,1,1,2
+ France  Greece,0,0,1
+ France  Netherlands,3,0,0
+ France  Republic of Korea,0,2,0
+ France  Tunisia,1,0,0
+ France  United States,1,1,1
+ Gabon,0,0,1
+ Georgia,16,10,11
+ Georgia  Greece,1,0,0
+ Georgia  Poland,0,0,1
+ Georgia  Russian Federation  Soviet Union  Unified Team,0,1,1
+ Georgia  Serbia,1,0,0
+ Georgia  Soviet Union,1,1,0
+ Georgia  Soviet Union  Unified Team,1,1,1
+ Georgia  Soviet Union  United States,1,0,0
+ Georgia  Unified Team  United States,1,0,0
+ Germany,747,706,705
+ Germany  Mongolia,2,0,0
+ Germany  Poland,0,0,1
+ Germany  Romania,2,0,3
+ Germany  Saar,0,0,3
+ Germany  South Africa,1,0,0
+ Germany  Soviet Union,1,1,0
+ Germany  Thailand,2,0,0
+ Germany  Ukraine,2,3,0
+ Germany  Unified Team,2,2,1
+ Germany  Unified Team  Uzbekistan,0,1,1
+ Germany  West Germany,87,96,68
+ Ghana,23,0,1
+ Great Britain,765,836,794
+ Great Britain  Ireland,0,2,0
+ Great Britain  Italy,0,0,2
+ Great Britain  Norway,1,1,0
+ Great Britain  The Bahamas,2,1,0
+ Great Britain  United States,0,0,1
+ Greece,54,38,76
+ Greece  Hungary,1,1,1
+ Greece  Serbia and Montenegro  Yugoslavia,0,2,0
+ Greece  Unified Team,0,3,0
+ Grenada,1,1,1
+ Guatemala,0,0,1
+ Guyana,1,0,0
+ Guyana  United States,0,1,1
+ Haiti,5,0,1
+" Hong Kong, China",6,2,4
+ Hungary,406,443,336
+ Hungary  Mexico,1,2,0
+ Hungary  Netherlands,1,1,1
+ Hungary  Romania,1,0,0
+ Hungary  Serbia and Montenegro,1,3,2
+ Hungary  Slovakia,0,2,0
+ Hungary  United States,4,3,1
+ Iceland,2,0,15
+ Independent Olympic Athletes  Kuwait,4,1,0
+ Independent Olympic Athletes  Netherlands,0,0,1
+ Independent Olympic Athletes  Serbia  Serbia and Montenegro,1,0,0
+ Independent Olympic Athletes  Serbia  Serbia and Montenegro  Yugoslavia,1,1,3
+ Independent Olympic Athletes  Serbia and Montenegro,2,1,0
+ Independent Olympic Athletes  Serbia and Montenegro  United States  Yugoslavia,0,0,1
+ Independent Olympic Athletes  Serbia and Montenegro  Yugoslavia,0,1,0
+ Independent Olympic Athletes  United States  Yugoslavia,1,0,0
+ Independent Olympic Athletes  Yugoslavia,1,0,0
+ India,66,166,29
+ India  Pakistan,0,3,2
+ India  Uganda,0,3,0
+ Indonesia,17,12,18
+ Indonesia  Netherlands,0,0,2
+ Indonesia  United States,0,1,0
+ International Federation Representative  Switzerland,0,1,1
+ Iraq,1,0,0
+ Ireland,19,12,13
+ Islamic Republic of Iran,28,24,23
+ Islamic Republic of Iran  Mongolia,0,0,1
+ Islamic Republic of Iran  Refugee Olympic Team,1,0,0
+ Israel,19,3,1
+ Italy,578,595,564
+ Italy  Netherlands,1,0,0
+ Italy  Republic of Moldova  Unified Team,2,0,0
+ Italy  Switzerland,2,0,0
+ Italy  Türkiye,0,1,0
+ Italy  United States,1,0,0
+ Italy  West Germany,2,1,2
+ Jamaica,42,50,87
+ Jamaica  Slovenia,6,0,3
+ Jamaica  United States,0,0,1
+ Jamaica  West Indies Federation,5,0,0
+ Japan,415,326,384
+ Japan  Kenya,1,0,0
+ Japan  People's Republic of China,0,1,0
+ Japan  Republic of Korea,0,1,0
+ Japan  Soviet Union,1,0,0
+ Japan  Spain,0,0,1
+ Jordan,1,1,1
+ Kazakhstan,35,13,18
+ Kazakhstan  Russian Federation,4,1,4
+ Kazakhstan  Soviet Union,1,2,1
+ Kazakhstan  Soviet Union  Unified Team,5,2,5
+ Kazakhstan  Unified Team,1,0,1
+ Kenya,35,40,44
+ Kenya  United States,1,0,2
+ Kingdom of Saudi Arabia,5,0,2
+ Kosovo,0,2,0
+ Kyrgyzstan,4,0,3
+ Kyrgyzstan  Russian Federation,0,0,2
+ Latvia,22,11,12
+ Latvia  Russian Federation,0,1,1
+ Latvia  Soviet Union,3,3,4
+ Lebanon,2,0,2
+ Liechtenstein,6,2,2
+ Lithuania,41,5,8
+ Lithuania  Soviet Union,11,8,2
+ Luxembourg,0,3,4
+ Malaysia,7,0,12
+ Malaysia  Singapore,0,0,1
+ Mauritius,1,0,0
+ Mexico,86,36,26
+ Mexico  Netherlands,0,0,1
+ Mexico  United States,0,1,0
+ Mexico  West Germany,1,0,0
+ Monaco,1,0,0
+ Mongolia,16,2,10
+ Montenegro,0,0,15
+ Montenegro  Serbia  Serbia and Montenegro,1,0,1
+ Montenegro  Serbia and Montenegro,1,0,2
+ Morocco,12,7,5
+ Mozambique,1,1,0
+ Namibia,0,0,5
+ Nepal,0,4,0
+ Netherlands,496,345,388
+ Netherlands  South Africa,0,2,0
+ Netherlands  Soviet Union  Unified Team,1,0,0
+ Netherlands Antilles,0,0,1
+ New Zealand,92,122,84
+ New Zealand  United States,0,1,1
+ Niger,1,0,1
+ Nigeria,52,29,38
+ Nigeria  Portugal,0,0,1
+ Nigeria  Spain,0,0,1
+ North Macedonia,0,0,1
+ North Macedonia  Yugoslavia,0,1,1
+ Norway,352,429,406
+ Norway  Sweden,0,0,1
+ Norway  Switzerland,0,0,2
+ Pakistan,34,52,52
+ Panama,2,1,0
+ Paraguay,0,0,22
+ People's Republic of China,344,419,427
+ People's Republic of China  Republic of Korea,0,0,1
+ People's Republic of China  Singapore,1,0,0
+ People's Republic of China  United States,0,2,1
+ Peru,0,1,14
+ Philippines,8,1,5
+ Poland,274,137,216
+ Poland  Russian Federation,1,0,0
+ Poland  Soviet Union  Ukraine  Unified Team,0,0,2
+ Poland  Spain  Unified Team,2,1,0
+ Poland  Tunisia,0,0,1
+ Poland  West Germany,1,1,0
+ Portugal,28,4,11
+ Puerto Rico,6,2,2
+ Puerto Rico  United States,0,2,0
+ Qatar,5,2,2
+ ROC,37,65,101
+ ROC  Russian Federation,56,71,78
+ ROC  Russian Federation  Unified Team,1,1,1
+ ROC  Ukraine,1,0,0
+ Republic of Korea,212,251,278
+ Republic of Korea  Russian Federation,2,6,0
+ Republic of Moldova,3,0,0
+ Republic of Moldova  Romania  Soviet Union,0,2,1
+ Republic of Moldova  Soviet Union,0,2,2
+ Republic of Moldova  United Arab Emirates,1,0,0
+ Romania,301,163,204
+ Romania  West Germany,1,0,1
+ Russian Federation,321,266,245
+ Russian Federation  Slovakia,0,1,1
+ Russian Federation  Soviet Union,14,35,13
+ Russian Federation  Soviet Union  Unified Team,19,33,21
+ Russian Federation  Soviet Union  Unified Team  Uzbekistan,0,2,1
+ Russian Federation  Spain  Unified Team,2,0,0
+ Russian Federation  Switzerland,0,1,0
+ Russian Federation  Türkiye  Unified Team,1,0,0
+ Russian Federation  Ukraine,1,4,3
+ Russian Federation  Unified Team,45,77,73
+ Russian Federation  Uzbekistan,2,0,1
+ Samoa,0,0,1
+ San Marino,2,0,2
+ Senegal,0,0,1
+ Serbia,48,28,29
+ Serbia  Serbia and Montenegro,14,5,8
+ Serbia  Serbia and Montenegro  Yugoslavia,0,0,2
+ Serbia  Yugoslavia,0,1,0
+ Serbia and Montenegro,17,9,13
+ Serbia and Montenegro  Slovenia  Yugoslavia,1,1,0
+ Serbia and Montenegro  Yugoslavia,1,5,4
+ Singapore,4,1,3
+ Slovakia,41,18,20
+ Slovakia  Soviet Union,1,0,0
+ Slovenia,26,15,20
+ Slovenia  Yugoslavia,7,2,1
+ South Africa,52,34,48
+ Soviet Union,613,973,673
+ Soviet Union  Sweden  Unified Team,0,1,0
+ Soviet Union  Ukraine,8,13,8
+ Soviet Union  Ukraine  Unified Team,2,3,3
+ Soviet Union  Unified Team,51,41,36
+ Soviet Union  Unified Team  Uzbekistan,0,2,0
+ Soviet Union  Uzbekistan,0,0,1
+ Spain,164,120,301
+ Sri Lanka,0,0,2
+ Sudan,0,0,1
+ Suriname,1,1,0
+ Sweden,552,523,578
+ Switzerland,288,187,267
+ Syrian Arab Republic,2,1,1
+ Tajikistan,2,1,1
+ Tajikistan  Unified Team  Uzbekistan,0,1,0
+ Thailand,17,10,8
+ The Bahamas,13,15,11
+ Togo,1,0,0
+ Tonga,0,0,1
+ Trinidad and Tobago,18,7,8
+ Trinidad and Tobago  West Indies Federation,2,0,0
+ Tunisia,7,5,3
+ Turkmenistan,0,0,1
+ Turkmenistan  Türkiye,0,0,1
+ Türkiye,35,41,25
+ Uganda,3,4,4
+ Ukraine,114,44,52
+ Ukraine  Unified Team,8,8,10
+ Ukraine  Uzbekistan,0,0,1
+ Unified Team,29,38,13
+ Unified Team  United States,2,0,0
+ Unified Team  Uzbekistan,0,1,0
+ United Arab Emirates,0,1,0
+ United Arab Republic,1,0,1
+ United Republic of Tanzania,0,0,2
+ United States,1489,2931,1850
+ United States Virgin Islands,0,0,1
+ Uruguay,30,44,2
+ Uzbekistan,20,10,6
+ Venezuela,9,3,7
+ Vietnam,1,1,3
+ West Germany,210,117,159
+ West Indies Federation,1,0,0
+ Yugoslavia,80,111,170
+ Zambia,1,0,1
+ Zimbabwe,1,18,4

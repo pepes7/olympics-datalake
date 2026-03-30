@@ -1,0 +1,17 @@
+{
+  "nome_dataset": "athlete_bio",
+  "fonte": "Base dos Dados",
+  "descricao": "Informações biográficas dos atletas olímpicos",
+  "campos_principais": [
+    "athlete_id",
+    "name",
+    "sex",
+    "born",
+    "height",
+    "weight",
+    "country",
+    "country_noc"
+  ],
+  "data_coleta": "2026-03-28",
+  "observacoes": "Dados brutos sem tratamento"
+}

@@ -1,0 +1,28 @@
+{
+  "data_lake": "Olimpiadas Data Lake",
+  "descricao": "Data Lake contendo dados históricos e atuais dos Jogos Olímpicos",
+  "camadas": {
+    "raw": {
+      "descricao": "Dados brutos coletados de fontes externas (CSV)",
+      "formato": "CSV + JSON metadata"
+    },
+    "bronze": {
+      "descricao": "Dados tratados, normalizados e integrados",
+      "formato": "Parquet + JSON metadata"
+    },
+    "gold": {
+      "descricao": "Dados analíticos prontos para consumo",
+      "formato": "CSV + gráficos + JSON metadata"
+    }
+  },
+  "datasets": [
+    "athlete_bio",
+    "athlete_results",
+    "games",
+    "paris_athletes",
+    "paris_medals",
+    "paris_events"
+  ],
+  "data_criacao": "2026-03-28",
+  "observacoes": "Projeto acadêmico de construção de Data Lake"
+}
